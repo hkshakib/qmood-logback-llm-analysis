@@ -33,3 +33,10 @@ Day 2 status:
 - Test version: `v_1.5.25`.
 - Checkout worked.
 - CK test did not run because `tools/ck.jar` is missing.
+
+Day 3 status:
+- CK Tool was prepared as `tools/ck.jar`.
+- Java was installed so CK could run.
+- CK extraction was tested only for `v_1.5.25`.
+- Raw CK output was saved in `data/raw_metrics/v_1.5.25/`.
+- No QMOOD calculation, graphs, LLM prompts, report, or slides were created.
