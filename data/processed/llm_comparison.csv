@@ -1,0 +1,4 @@
+model,understands_metrics,quality_trend_analysis,maintainability_analysis,technical_debt_discussion,refactoring_suggestions,limitations_discussion,hallucination_risk,overall_usefulness,short_comment
+ChatGPT,High,High,Medium,Low,Low,High,Low,High,"Balanced and cautious explanation. Good for a simple academic discussion."
+Gemini,High,High,High,Medium,Medium,Medium,Medium,High,"More detailed and metric-specific. Useful for report discussion, but slightly more interpretive."
+DeepSeek,High,High,High,Medium,Low,High,Low,High,"Clear phase-based explanation. Useful for summarizing the quality evolution trend."

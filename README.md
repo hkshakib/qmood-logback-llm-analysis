@@ -68,3 +68,9 @@ Day 6.1 status:
 - Empty response files were created in `data/llm_outputs/`.
 - LLM responses have not been collected yet.
 - LLM comparison has not been done yet.
+
+Day 6.2 status:
+- Manual responses from ChatGPT, Gemini, and DeepSeek were collected.
+- LLM comparison CSV was created in `data/processed/llm_comparison.csv`.
+- LLM comparison summary was created in `data/processed/llm_comparison_summary.md`.
+- Report and slides are still not final.

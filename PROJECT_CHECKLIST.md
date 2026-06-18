@@ -14,7 +14,7 @@
 | Process raw metrics | Done | Version-level combined metrics were created. |
 | Calculate QMOOD scores | Done | QMOOD-inspired scores were calculated for all 10 selected versions. |
 | Prepare LLM evaluation prompts | Done | Manual prompt and metric input files were created. |
-| Compare CK/QMOOD results with LLMs | In progress | Response placeholder files were created, but responses are not collected yet. |
+| Compare CK/QMOOD results with LLMs | Done | Manual responses were collected and compared. |
 | Create graphs | Done | Simple QMOOD and metric trend graphs were created. |
 | Write report | Not started | Not started yet. |
 | Create slides | Not started | Not started yet. |
