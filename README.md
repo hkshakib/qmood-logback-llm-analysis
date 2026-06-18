@@ -54,3 +54,10 @@ Day 5.1 status:
 - Column report was saved in `data/processed/ck_column_report.csv`.
 - A simple QMOOD-inspired mapping was saved in `data/processed/qmood_metric_mapping.csv`.
 - Final QMOOD scores have not been calculated yet.
+
+Day 5.2 status:
+- Combined version-level metrics were created in `data/processed/logback_combined_metrics.csv`.
+- QMOOD-inspired quality scores were created in `data/processed/logback_qmood_scores.csv`.
+- All 10 selected versions were processed.
+- Raw CK files were not modified.
+- Graphs, LLM evaluation, report, and slides have not started.
