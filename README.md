@@ -2,6 +2,7 @@
 
 Selected repository: Logback  
 Repository link: https://github.com/qos-ch/logback
+Project GitHub repository: https://github.com/hkshakib/qmood-logback-llm-analysis
 
 Purpose: This project studies how Logback quality changes across versions using QMOOD-related object-oriented metrics. The calculated results are also compared with manual evaluations from 3 LLMs.
 
