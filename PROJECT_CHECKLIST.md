@@ -10,7 +10,7 @@
 | Prepare single-version CK script | Done | `scripts/run_ck_single_version.py` |
 | Prepare CK Tool jar | Done | Local jar is expected at `tools/ck.jar`. |
 | Validate CK extraction for `v_1.5.25` | Done | Raw CK CSV files were created. |
-| Run CK extraction for all selected versions | Not started | Planned for a later day. |
+| Run CK extraction for all selected versions | Done | Raw CK CSV files were created for all 10 selected versions. |
 | Process raw metrics | Not started | No cleaning or QMOOD calculation yet. |
 | Calculate QMOOD scores | Not started | Planned after metric extraction. |
 | Prepare LLM evaluation prompts | Not started | Not started yet. |

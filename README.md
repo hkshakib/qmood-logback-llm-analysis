@@ -40,3 +40,11 @@ Day 3 status:
 - CK extraction was tested only for `v_1.5.25`.
 - Raw CK output was saved in `data/raw_metrics/v_1.5.25/`.
 - No QMOOD calculation, graphs, LLM prompts, report, or slides were created.
+
+Day 4 status:
+- CK extraction was completed for all 10 selected versions.
+- Raw metric files are saved in `data/raw_metrics/<version>/`.
+- Extraction log is saved at `data/raw_metrics/extraction_log.csv`.
+- QMOOD calculation has not started.
+- Graph generation has not started.
+- LLM evaluation has not started.
