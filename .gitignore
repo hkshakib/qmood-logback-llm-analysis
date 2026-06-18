@@ -1,1 +1,3 @@
 /versions/logback/
+/tools/ck.jar
+__pycache__/

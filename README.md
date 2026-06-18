@@ -23,3 +23,13 @@ Selected versions:
 - v_1.5.32
 - v_1.5.33
 - v_1.5.34
+
+Day 2 status:
+- Selected source folders:
+  - `versions/logback/logback-core/src/main/java`
+  - `versions/logback/logback-classic/src/main/java`
+- Excluded folders: tests, examples, target folders, generated files, documentation, and logback-access.
+- CK Tool is expected at `tools/ck.jar`.
+- Test version: `v_1.5.25`.
+- Checkout worked.
+- CK test did not run because `tools/ck.jar` is missing.
