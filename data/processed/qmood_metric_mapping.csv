@@ -1,0 +1,13 @@
+note,This project uses a QMOOD-inspired approximation because CK Tool does not directly provide every original QMOOD design property.
+
+qmood_related_property,planned_metric,source
+Design Size,class_count,Count classes in the CK class CSV files.
+Coupling,avg_cbo,Average `cbo`.
+Complexity,avg_wmc,Average `wmc`.
+Messaging,avg_rfc,Average `rfc`.
+Cohesion,inverse of avg_lcom,Use the inverse direction of average `lcom`.
+Inheritance,avg_dit + avg_noc,Use average `dit` and average `noc`.
+Abstraction,avg_dit,Use average `dit`.
+Polymorphism,avg_noc + avg_methods,Use average `noc` and average method count.
+Encapsulation,private method/field ratio if available,Use private/public method and field columns.
+Composition,field-related structure if available,Use field count columns as a simple approximation.

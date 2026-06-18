@@ -48,3 +48,9 @@ Day 4 status:
 - QMOOD calculation has not started.
 - Graph generation has not started.
 - LLM evaluation has not started.
+
+Day 5.1 status:
+- CK class CSV columns were inspected for all 10 versions.
+- Column report was saved in `data/processed/ck_column_report.csv`.
+- A simple QMOOD-inspired mapping was saved in `data/processed/qmood_metric_mapping.csv`.
+- Final QMOOD scores have not been calculated yet.
