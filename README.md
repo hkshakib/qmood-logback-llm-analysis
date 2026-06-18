@@ -61,3 +61,10 @@ Day 5.2 status:
 - All 10 selected versions were processed.
 - Raw CK files were not modified.
 - Graphs, LLM evaluation, report, and slides have not started.
+
+Day 6.1 status:
+- Simple graphs were created in `graphs/`.
+- Manual LLM prompt files were prepared in `prompts/`.
+- Empty response files were created in `data/llm_outputs/`.
+- LLM responses have not been collected yet.
+- LLM comparison has not been done yet.

@@ -1,0 +1,21 @@
+I am working on a master's course project named:
+QMOOD-Based Software Quality Evolution Analysis of Logback with LLM-Supported Evaluation
+
+The analyzed software is Logback.
+
+I analyzed only these production modules:
+- logback-core
+- logback-classic
+
+The analyzed versions are v_1.5.25 to v_1.5.34.
+
+The metrics come from CK Tool output and a simple QMOOD-inspired calculation. These scores are approximations, not the original full QMOOD model.
+
+Please review the metric tables I provide and give a short quality evolution interpretation across the versions.
+
+Important:
+- Do not claim that you inspected the Logback source code directly.
+- Use only the metric values I provide.
+- Keep the explanation simple and suitable for a master's course project.
+- Mention possible trends, improvements, or declines, but do not invent missing evidence.
+- If a conclusion is uncertain, say that it is uncertain.

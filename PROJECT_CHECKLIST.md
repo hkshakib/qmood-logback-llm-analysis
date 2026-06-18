@@ -13,8 +13,8 @@
 | Run CK extraction for all selected versions | Done | Raw CK CSV files were created for all 10 selected versions. |
 | Process raw metrics | Done | Version-level combined metrics were created. |
 | Calculate QMOOD scores | Done | QMOOD-inspired scores were calculated for all 10 selected versions. |
-| Prepare LLM evaluation prompts | Not started | Not started yet. |
-| Compare CK/QMOOD results with LLMs | Not started | Not started yet. |
-| Create graphs | Not started | Not started yet. |
+| Prepare LLM evaluation prompts | Done | Manual prompt and metric input files were created. |
+| Compare CK/QMOOD results with LLMs | In progress | Response placeholder files were created, but responses are not collected yet. |
+| Create graphs | Done | Simple QMOOD and metric trend graphs were created. |
 | Write report | Not started | Not started yet. |
 | Create slides | Not started | Not started yet. |
