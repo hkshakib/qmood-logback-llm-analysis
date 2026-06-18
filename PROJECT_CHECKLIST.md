@@ -16,5 +16,5 @@
 | Prepare LLM evaluation prompts | Done | Manual prompt and metric input files were created. |
 | Compare CK/QMOOD results with LLMs | Done | Manual responses were collected and compared. |
 | Create graphs | Done | Simple QMOOD and metric trend graphs were created. |
-| Write report | In progress | A full draft report was created, but it still needs final review. |
-| Create slides | Not started | Not started yet. |
+| Write report | Done | The final report draft is ready in `report/final_report_draft.md`. |
+| Create slides | Separate task | Presentation will be created separately later. |

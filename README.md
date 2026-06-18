@@ -5,6 +5,46 @@ Repository link: https://github.com/qos-ch/logback
 
 Purpose: This project studies how Logback quality changes across versions using QMOOD-related object-oriented metrics. The calculated results are also compared with manual evaluations from 3 LLMs.
 
+## Repository Overview
+
+Selected software: Logback
+
+Analyzed modules:
+- `logback-core`
+- `logback-classic`
+
+Analyzed versions:
+- `v_1.5.25` to `v_1.5.34`
+
+Tools used:
+- CK Tool
+- Python
+
+Main output folders:
+- `data/raw_metrics/` - raw CK Tool CSV files
+- `data/processed/` - combined metrics, QMOOD-inspired scores, and LLM comparison files
+- `graphs/` - generated quality and metric trend graphs
+- `prompts/` - LLM prompt and metric input files
+- `data/llm_outputs/` - manual ChatGPT, Gemini, and DeepSeek responses
+- `report/` - technical report draft
+
+Useful scripts:
+- `python scripts/list_logback_tags.py`
+- `python scripts/checkout_logback_version.py v_1.5.25`
+- `python scripts/run_ck_single_version.py v_1.5.25`
+- `python scripts/run_ck_all_versions.py`
+- `python scripts/inspect_ck_columns.py`
+- `python scripts/calculate_qmood.py`
+- `python scripts/generate_graphs.py`
+
+Notes:
+- `tools/ck.jar` is needed to run CK extraction locally.
+- `tools/ck.jar` is ignored by Git and is not committed.
+- The report uses a QMOOD-inspired approximation, not the complete original QMOOD model.
+- Presentation slides are a separate task and are not included yet.
+
+## Work Log
+
 Day 1 status:
 - Project folders were created.
 - Logback was cloned into `versions/logback`.
@@ -80,3 +120,9 @@ Day 7.1 status:
 - The report uses the existing metrics, graphs, prompt, and LLM comparison files.
 - Slides are not finalized yet.
 - The project is nearly ready for final packaging.
+
+Day 7.2 status:
+- Repository materials were finalized.
+- The report draft was reviewed for grammar, clarity, formatting, and simple academic wording.
+- README was updated as a clear project overview.
+- Presentation slides remain a separate task.

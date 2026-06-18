@@ -149,7 +149,7 @@ The lowest overall scores appeared in:
 
 These values suggest an overall downward trend in the simplified quality score, but the trend is not perfectly linear. Because the scores are normalized only across these ten versions, they are best used for comparison inside this dataset.
 
-Figure placeholders:
+The graphs are stored in the `graphs/` folder and can be inserted into the final submitted report if needed:
 
 - Figure 1: Class count by version (`graphs/class_count_by_version.png`)
 - Figure 2: Metric trends for CBO, WMC, and LCOM (`graphs/metric_trends_cbo_wmc_lcom.png`)
